@@ -1,0 +1,15 @@
+C:\Users\jparra\source\repos\WebApi_Zapateria\FormZapateria\obj\Debug\FormZapateria.csprojAssemblyReference.cache
+C:\Users\jparra\source\repos\WebApi_Zapateria\FormZapateria\obj\Debug\FormZapateria.Form1.resources
+C:\Users\jparra\source\repos\WebApi_Zapateria\FormZapateria\obj\Debug\FormZapateria.Properties.Resources.resources
+C:\Users\jparra\source\repos\WebApi_Zapateria\FormZapateria\obj\Debug\FormZapateria.csproj.GenerateResource.cache
+C:\Users\jparra\source\repos\WebApi_Zapateria\FormZapateria\obj\Debug\FormZapateria.csproj.CoreCompileInputs.cache
+C:\Users\jparra\source\repos\WebApi_Zapateria\FormZapateria\bin\Debug\FormZapateria.exe.config
+C:\Users\jparra\source\repos\WebApi_Zapateria\FormZapateria\bin\Debug\FormZapateria.exe
+C:\Users\jparra\source\repos\WebApi_Zapateria\FormZapateria\bin\Debug\FormZapateria.pdb
+C:\Users\jparra\source\repos\WebApi_Zapateria\FormZapateria\obj\Debug\FormZapateria.exe
+C:\Users\jparra\source\repos\WebApi_Zapateria\FormZapateria\obj\Debug\FormZapateria.pdb
+C:\Users\jparra\source\repos\WebApi_Zapateria\FormZapateria\bin\Debug\Newtonsoft.Json.dll
+C:\Users\jparra\source\repos\WebApi_Zapateria\FormZapateria\bin\Debug\Newtonsoft.Json.xml
+C:\Users\jparra\source\repos\WebApi_Zapateria\FormZapateria\obj\Debug\FormZapateria.csproj.CopyComplete
+C:\Users\jparra\source\repos\WebApi_Zapateria\FormZapateria\obj\Debug\FormZapateria.FormMain.resources
+C:\Users\jparra\source\repos\WebApi_Zapateria\FormZapateria\obj\Debug\FormZapateria.FrmStore.resources

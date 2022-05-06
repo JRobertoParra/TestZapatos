@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30309.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApi_Zapateria", "WebApi_Zapateria\WebApi_Zapateria.csproj", "{605717FA-9749-4B5E-ADC4-DA752F5239C9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FormZapateria", "FormZapateria\FormZapateria.csproj", "{A5B95CBB-F8E3-4F84-8042-C386E4A1993E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{605717FA-9749-4B5E-ADC4-DA752F5239C9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{605717FA-9749-4B5E-ADC4-DA752F5239C9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{605717FA-9749-4B5E-ADC4-DA752F5239C9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{605717FA-9749-4B5E-ADC4-DA752F5239C9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A5B95CBB-F8E3-4F84-8042-C386E4A1993E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A5B95CBB-F8E3-4F84-8042-C386E4A1993E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A5B95CBB-F8E3-4F84-8042-C386E4A1993E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A5B95CBB-F8E3-4F84-8042-C386E4A1993E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2D514C48-C468-42EB-81D4-50502104B49C}
+	EndGlobalSection
+EndGlobal
